@@ -1,0 +1,14 @@
+{
+  "name": "@ctsy/chinese",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "repository": "https://github.com/c-tsy/chinese",
+  "author": "CastleMY <castle@tansuyun.cn>",
+  "license": "MIT",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist/index.js",
+    "dist/index.d.ts",
+    "README.md"
+  ]
+}
