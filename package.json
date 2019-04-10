@@ -1,11 +1,21 @@
 {
   "name": "@ctsy/chinese",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "dist/index.js",
   "repository": "https://github.com/c-tsy/chinese",
   "author": "CastleMY <castle@tansuyun.cn>",
   "license": "MIT",
   "types": "dist/index.d.ts",
+  "keywords": [
+    "chinese",
+    "number",
+    "中文",
+    "数字",
+    "中文数字",
+    "中文转阿拉伯",
+    "阿拉伯转中文",
+    "阿拉伯"
+  ],
   "files": [
     "dist/index.js",
     "dist/index.d.ts",
